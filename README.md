@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MalayGS95
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Python
+- 👀 I’m AI Engineer
 - 💞️ I’m looking to collaborate on Artificial Intelligence
 - 📫 How to reach me 9595664833
 
